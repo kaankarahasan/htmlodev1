@@ -1,1 +1,1 @@
-HTML Giriş Ödev 1
+HTML Giriş Ödev 1 ve 2
